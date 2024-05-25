@@ -1,0 +1,5 @@
+# ignores input doc, docx, and output txt files
+.doc
+.docx
+.txt
+
